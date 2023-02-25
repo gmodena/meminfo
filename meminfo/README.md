@@ -1,4 +1,4 @@
-= meminfo
+# meminfo
 
 A process that scans its own memory address space and prints basic info.
 
